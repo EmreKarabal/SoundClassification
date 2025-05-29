@@ -1,0 +1,49 @@
+start_time,end_time,sound_type,confidence
+1.0,1.5,Vehicle,0.320
+1.5,1.9,"Roaring cats (lions, tigers)",0.479
+1.9,2.9,Vehicle,0.398
+2.9,3.4,Roar,0.710
+3.4,3.9,"Roaring cats (lions, tigers)",0.224
+3.9,7.3,Vehicle,0.676
+7.3,7.8,Roar,0.235
+7.8,8.2,Breathing,0.623
+8.2,8.7,Vehicle,0.308
+8.7,10.7,Animal,0.873
+10.7,11.2,Vehicle,0.365
+11.2,12.1,"Roaring cats (lions, tigers)",0.989
+12.1,12.6,Animal,0.259
+12.6,13.1,Vehicle,0.511
+13.1,13.6,Animal,0.954
+13.6,14.1,Roar,0.790
+14.1,15.0,"Roaring cats (lions, tigers)",0.936
+15.0,16.5,Roar,0.437
+16.5,17.0,Animal,0.849
+17.0,18.4,Vehicle,0.367
+18.4,18.9,Roar,0.241
+18.9,19.4,Animal,0.781
+19.4,19.9,Growling,0.519
+19.9,20.4,Roar,0.495
+20.4,21.3,Animal,0.827
+21.3,21.8,Dog,0.731
+21.8,22.8,Vehicle,0.462
+22.8,23.3,Animal,0.601
+23.3,23.8,Roar,0.869
+23.8,24.3,Dog,0.583
+24.3,24.7,Idling,0.420
+24.7,25.2,Vehicle,0.372
+25.2,25.7,Engine,0.444
+25.7,26.2,Animal,0.805
+26.2,26.7,"Roaring cats (lions, tigers)",0.515
+26.7,27.7,Animal,0.733
+27.7,28.1,"Roaring cats (lions, tigers)",0.987
+28.1,29.1,Animal,0.651
+29.1,29.6,Vehicle,0.427
+29.6,30.6,Rattle,0.707
+30.6,31.1,"Roaring cats (lions, tigers)",0.903
+31.1,31.5,Grunt,0.709
+31.5,32.0,Tools,0.737
+32.0,32.5,Engine starting,0.387
+32.5,33.5,"Roaring cats (lions, tigers)",0.755
+33.5,34.0,Roar,0.350
+34.0,35.9,Vehicle,0.427
+35.9,36.4,Grunt,0.640

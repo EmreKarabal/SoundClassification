@@ -1,0 +1,65 @@
+start_time,end_time,sound_type,confidence
+0.0,1.0,"Livestock, farm animals, working animals",0.974
+1.0,1.4,"Burping, eructation",0.250
+1.4,1.9,Sheep,0.928
+1.9,3.4,"Livestock, farm animals, working animals",0.897
+3.4,3.9,Animal,0.986
+3.9,4.8,Sheep,0.815
+4.8,5.3,"Crying, sobbing",0.820
+5.3,5.8,"Domestic animals, pets",0.893
+5.8,7.2,Animal,1.000
+7.2,7.7,"Livestock, farm animals, working animals",0.297
+7.7,8.2,Speech,0.239
+8.2,8.7,"Livestock, farm animals, working animals",0.221
+8.7,10.6,Sheep,0.851
+10.6,11.6,Animal,0.995
+11.6,12.0,Sheep,0.616
+12.0,13.0,Speech,0.993
+13.0,13.5,Animal,0.521
+13.5,14.5,Music,0.263
+14.5,15.4,"Livestock, farm animals, working animals",0.664
+15.4,15.9,Silence,0.984
+15.9,16.4,Animal,0.223
+16.4,17.3,Speech,0.934
+17.3,19.8,"Livestock, farm animals, working animals",0.684
+19.8,20.2,"Crying, sobbing",0.288
+20.2,20.7,Speech,0.719
+20.7,21.2,Animal,0.998
+21.2,21.7,"Livestock, farm animals, working animals",0.949
+21.7,22.6,Tools,0.269
+22.6,23.1,Sheep,0.496
+23.1,24.1,Animal,0.963
+24.1,25.1,Sheep,0.952
+25.1,25.5,"Crying, sobbing",0.323
+25.5,26.0,"Livestock, farm animals, working animals",0.299
+26.0,27.0,Speech,0.460
+27.0,28.4,Animal,0.677
+28.4,28.9,Sheep,0.345
+28.9,29.4,Animal,1.000
+29.4,30.4,Speech,0.736
+30.4,31.3,"Cattle, bovinae",0.969
+31.3,31.8,Alarm,0.773
+31.8,32.3,"Livestock, farm animals, working animals",0.955
+32.3,32.8,Animal,0.999
+32.8,33.2,"Rodents, rats, mice",0.236
+33.2,33.7,Silence,0.642
+33.7,34.2,Speech,0.559
+34.2,34.7,Animal,0.822
+34.7,35.7,"Crying, sobbing",0.457
+35.7,36.1,Sheep,0.901
+36.1,36.6,"Livestock, farm animals, working animals",0.981
+36.6,37.1,Vehicle,0.556
+37.1,37.6,"Livestock, farm animals, working animals",0.605
+37.6,38.1,Animal,0.992
+38.1,39.0,Sheep,0.784
+39.0,39.5,"Livestock, farm animals, working animals",0.873
+39.5,40.0,Speech,0.394
+40.0,40.5,Breathing,0.392
+40.5,41.0,Sheep,0.444
+41.0,41.4,Speech,0.725
+41.4,41.9,Sheep,0.744
+41.9,42.4,Animal,0.991
+42.4,42.9,"Electric shaver, electric razor",0.649
+42.9,43.4,Sheep,0.867
+43.4,44.3,Animal,0.960
+44.3,45.3,Sheep,0.977
