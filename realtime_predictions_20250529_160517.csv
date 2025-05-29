@@ -1,0 +1,96 @@
+timestamp,sound_type,confidence
+0.0,"Livestock, farm animals, working animals",0.97521996
+0.0,Animal,0.97254366
+0.0,Sheep,0.80707973
+0.96,"Burping, eructation",0.39003327
+1.92,"Livestock, farm animals, working animals",0.83904487
+1.92,Sheep,0.7931021
+1.92,Animal,0.771379
+2.88,"Livestock, farm animals, working animals",0.44669574
+2.88,Animal,0.391688
+2.88,Sheep,0.2613226
+4.8,"Crying, sobbing",0.63188314
+4.8,"Baby cry, infant cry",0.42425108
+4.8,Whimper,0.25792518
+5.76,Animal,0.9999497
+5.76,"Livestock, farm animals, working animals",0.95701545
+5.76,Goat,0.63051283
+6.72,Animal,0.99105334
+6.72,"Livestock, farm animals, working animals",0.9873176
+6.72,Fowl,0.42612645
+8.64,Sheep,0.39283726
+8.64,"Livestock, farm animals, working animals",0.28204495
+10.559999999999999,Animal,0.9986378
+10.559999999999999,"Livestock, farm animals, working animals",0.9475014
+10.559999999999999,Sheep,0.913496
+11.52,Sheep,0.5646452
+11.52,Bleat,0.4783337
+11.52,"Livestock, farm animals, working animals",0.4768661
+13.44,Music,0.36917755
+14.399999999999999,Grunt,0.65585405
+14.399999999999999,Growling,0.29715702
+14.399999999999999,Groan,0.27019164
+15.36,"Roaring cats (lions, tigers)",0.74620116
+15.36,Roar,0.7251439
+15.36,Wild animals,0.3156215
+16.32,Speech,0.91874117
+17.28,"Livestock, farm animals, working animals",0.82709515
+17.28,Animal,0.72786975
+17.28,Sheep,0.48429245
+20.16,Speech,0.6795393
+21.119999999999997,"Livestock, farm animals, working animals",0.9386809
+21.119999999999997,Sheep,0.9330429
+21.119999999999997,Animal,0.8504675
+23.04,Animal,0.98178387
+23.04,"Livestock, farm animals, working animals",0.9691902
+23.04,Sheep,0.92704177
+24.0,Sheep,0.8656703
+24.0,Bleat,0.7422769
+24.0,"Livestock, farm animals, working animals",0.7232523
+24.96,"Crying, sobbing",0.29742792
+25.919999999999998,Speech,0.4961042
+26.88,Animal,0.73824453
+26.88,"Domestic animals, pets",0.60602343
+26.88,Dog,0.5398003
+27.84,Animal,0.9982986
+27.84,"Livestock, farm animals, working animals",0.97810674
+27.84,Sheep,0.9256985
+28.799999999999997,Animal,0.9999587
+28.799999999999997,"Livestock, farm animals, working animals",0.99716616
+28.799999999999997,Sheep,0.87310326
+29.759999999999998,Speech,0.47182107
+30.72,Music,0.33988246
+30.72,"Wind instrument, woodwind instrument",0.3335059
+31.68,"Livestock, farm animals, working animals",0.95795685
+31.68,Animal,0.9546635
+31.68,Sheep,0.9480988
+33.6,Animal,0.71827924
+33.6,Dog,0.5160011
+33.6,"Domestic animals, pets",0.50965226
+34.56,"Crying, sobbing",0.35926417
+35.519999999999996,Sheep,0.8178462
+35.519999999999996,"Livestock, farm animals, working animals",0.8041907
+35.519999999999996,Bleat,0.6088643
+36.48,Vehicle,0.5402992
+36.48,"Motorboat, speedboat",0.43834502
+36.48,"Boat, Water vehicle",0.42511636
+37.44,Animal,0.9920986
+37.44,"Livestock, farm animals, working animals",0.9819216
+37.44,Sheep,0.8482095
+38.4,Sheep,0.28833523
+39.36,Speech,0.37905675
+40.32,Animal,0.42946807
+40.32,"Livestock, farm animals, working animals",0.42418823
+40.32,Sheep,0.41531667
+41.28,Sheep,0.87028253
+41.28,"Livestock, farm animals, working animals",0.75166965
+41.28,Bleat,0.7225374
+42.239999999999995,"Electric shaver, electric razor",0.59962374
+42.239999999999995,Buzz,0.29494447
+42.239999999999995,"Motorboat, speedboat",0.25322926
+43.199999999999996,Animal,0.96626925
+43.199999999999996,"Livestock, farm animals, working animals",0.7768541
+43.199999999999996,Sheep,0.66321075
+44.16,Sheep,0.9702719
+44.16,Bleat,0.93214643
+44.16,Animal,0.92324615
