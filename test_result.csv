@@ -1,0 +1,62 @@
+start_time,end_time,sound_type,confidence
+1.0,1.5,Vehicle,0.366
+1.5,1.9,"Cattle, bovinae",0.909
+1.9,2.4,Music,0.323
+2.4,2.9,Moo,0.840
+2.9,3.4,"Livestock, farm animals, working animals",0.913
+3.4,4.4,Music,0.392
+4.4,4.8,Moo,0.985
+4.8,5.3,Music,0.759
+5.3,5.8,"Cattle, bovinae",0.204
+5.8,7.3,"Livestock, farm animals, working animals",0.997
+7.3,10.2,Animal,0.693
+10.2,10.6,Wild animals,0.995
+10.6,14.0,Animal,0.298
+14.0,14.5,"Livestock, farm animals, working animals",0.841
+14.5,15.0,Insect,0.687
+15.0,15.5,"Roaring cats (lions, tigers)",0.516
+15.5,17.9,Animal,0.210
+17.9,18.9,Speech,0.242
+18.9,20.3,Animal,0.999
+20.3,20.8,Dog,0.558
+20.8,21.3,"Domestic animals, pets",0.908
+21.3,21.8,Speech,0.398
+21.8,22.3,"Domestic animals, pets",0.926
+22.3,25.2,Animal,0.999
+25.2,26.1,Speech,0.351
+26.1,26.6,Dog,0.662
+26.6,27.6,"Domestic animals, pets",0.919
+27.6,28.1,Bird,0.892
+28.1,29.0,Animal,0.955
+29.0,29.5,Wild animals,0.993
+29.5,30.0,Bird,0.989
+30.0,31.0,Wild animals,0.975
+31.0,31.5,Animal,0.996
+31.5,31.9,Wild animals,0.996
+31.9,34.8,Animal,0.999
+34.8,35.3,Laughter,0.201
+35.3,36.8,Animal,0.648
+36.8,37.3,"Livestock, farm animals, working animals",0.811
+37.3,40.6,Animal,0.994
+40.6,41.1,"Roaring cats (lions, tigers)",0.419
+41.1,43.1,Breathing,0.521
+43.1,43.5,Roar,0.205
+43.5,44.0,Vehicle,0.355
+44.0,45.5,"Roaring cats (lions, tigers)",0.972
+45.5,46.5,Motorcycle,0.248
+46.5,47.4,Music,0.259
+47.4,47.9,Dog,0.217
+47.9,48.4,"Domestic animals, pets",0.819
+48.4,50.3,Animal,0.978
+50.3,50.8,Speech,0.395
+50.8,51.3,Cat,0.987
+51.3,51.8,Animal,0.991
+51.8,52.3,"Domestic animals, pets",0.466
+52.3,55.2,Animal,0.961
+55.2,56.1,Vehicle,0.541
+56.1,56.6,Engine,0.339
+56.6,57.1,"Roaring cats (lions, tigers)",0.430
+57.1,58.1,Car,0.203
+58.1,58.5,Emergency vehicle,0.404
+58.5,59.0,Trumpet,0.602
+59.0,60.0,Siren,0.897
